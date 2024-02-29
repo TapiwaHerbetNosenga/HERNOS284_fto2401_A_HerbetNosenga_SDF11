@@ -14,3 +14,7 @@ npm run build
 npm run build-minify
 
 ```
+
+Video presentation link: https://www.loom.com/share/63bf77f4ddd4435aa1df9c22dc83480e
+
+Presentation link: https://docs.google.com/presentation/d/17moTNBfKTD0vxTSLf2Xz-mzBySkSGffDbKv0bu5MQVk/edit?usp=sharing
